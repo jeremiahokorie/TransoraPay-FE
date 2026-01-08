@@ -101,7 +101,11 @@ const Index = () => {
                     href="mailto:jeremiah.imo@transoragroup.com"
                     className="text-primary hover:text-primary/80 transition-colors font-medium"
                   >
-                    jeremiah.imo@transoragroup.com
+                   <a
+                    href="mailto:support@transoragroup.com"
+                    className="text-primary hover:text-primary/80 transition-colors font-medium"
+                  ></a>
+                    jeremiah.imo@transoragroup.com, support@transoragroup.com
                   </a>
                   <p className="text-sm text-muted-foreground">
                     +2348121461142, +2348131827513
